@@ -15,6 +15,10 @@
   "esmodules": [
     "sr5-gremlins.js"
   ],
+  "url": "https://github.com/BlauKreuz/sr5-gremlins",
+  "manifest": "https://github.com/BlauKreuz/sr5-gremlins/releases/download/v0.1/module.json",
+  "download": "https://github.com/BlauKreuz/sr5-gremlins/releases/download/v0.1/sr5-gremlins-v0.1.zip",
+
   "relationships": {
     "requires": [
       {
