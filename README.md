@@ -1,4 +1,4 @@
-## SR5 Gremlins - Negative QUality
+## SR5 Gremlins - Negative Quality
 
 This Shadowrun 5e module for Foundry VTT adds the negative quality Gremlins, which lowers glitch threshold one die per level.
 
