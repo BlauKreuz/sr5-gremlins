@@ -1,0 +1,26 @@
+{
+  "id": "sr5-gremlins",
+  "title": "SR5 Gremlins Quality",
+  "description": "Applies the Gremlins negative quality to Shadowrun 5e glitch checks.",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "Kurko"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": [
+    "sr5-gremlins.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "shadowrun5e",
+        "type": "system"
+      }
+    ]
+  }
+}
